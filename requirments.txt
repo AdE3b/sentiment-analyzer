@@ -1,3 +1,0 @@
-streamlit==1.33.0
-pickle==1.32.0
-
